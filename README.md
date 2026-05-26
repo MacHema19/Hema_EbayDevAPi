@@ -27,6 +27,12 @@ The backend uses:
 If eBay credentials are configured, product creation will also attempt to create an eBay inventory item and offer.  
 If eBay credentials are not configured, the product will still be created locally in SQLite and the eBay status will return as skipped.
 
+## Author
+
+Created by **Hema Darshini Selvaraju**.
+
+This project was developed for **testing purpose**, technical demonstration, and API development reference for the eBay API Developer Program.
+
 ---
 
 ## Base URL
@@ -34,8 +40,4 @@ If eBay credentials are not configured, the product will still be created locall
 ```text
 http://127.0.0.1:8000
 
-# Author
 
-Created by **Hema Darshini Selvaraju**.
-
-This project was developed for **testing purpose**, technical demonstration, and API development reference for the eBay API Developer Program.
