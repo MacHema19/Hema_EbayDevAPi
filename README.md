@@ -33,3 +33,9 @@ If eBay credentials are not configured, the product will still be created locall
 
 ```text
 http://127.0.0.1:8000
+
+# Author
+
+Created by **Hema Darshini Selvaraju**.
+
+This project was developed for **testing purpose**, technical demonstration, and API development reference for the eBay API Developer Program.
