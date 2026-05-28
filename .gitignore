@@ -1,6 +1,27 @@
-# macOS system files
+# macOS
 .DS_Store
 **/.DS_Store
 
-# Git attributes file
-.gitattributes
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+*.env
+*.pem
+*.key
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+crash.log
+crash.*.log
+
+# Docker
+*.tar
