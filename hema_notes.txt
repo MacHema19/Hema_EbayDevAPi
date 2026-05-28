@@ -1,0 +1,6 @@
+# to prevent the previous committed files in github for reappear need to use below comment
+git rm -r --cached terraform/
+git add .gitignore
+git commit -m "Remove terraform directory from repository tracking"
+git push origin main
+
