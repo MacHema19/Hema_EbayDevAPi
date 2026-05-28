@@ -28,3 +28,6 @@ terraform/
 
 # Docker
 *.tar
+
+#remove personal files
+hema_notes.txt
