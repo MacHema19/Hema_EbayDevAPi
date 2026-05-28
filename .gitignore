@@ -14,14 +14,17 @@ venv/
 *.pem
 *.key
 
+# Ignore full Terraform directory
+terraform/
+
 # Terraform
-.terraform/
-.terraform.lock.hcl
-terraform.tfstate
-terraform.tfstate.backup
-*.tfvars
-crash.log
-crash.*.log
+#.terraform/
+#.terraform.lock.hcl
+#terraform.tfstate
+#terraform.tfstate.backup
+#*.tfvars
+#crash.log
+#crash.*.log
 
 # Docker
 *.tar
