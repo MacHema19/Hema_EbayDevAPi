@@ -1,3 +1,9 @@
+
+Pending Work - May 28, 2026 - Thursday
+- check how to connect and deploy this with kubernetes, make the configuration and then commit the .tf files 
+
+
+
 # to prevent the previous committed files in github for reappear need to use below comment
 git rm -r --cached terraform/
 git add .gitignore
